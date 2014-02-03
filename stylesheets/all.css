@@ -1,0 +1,22 @@
+@charset "utf-8";
+body {
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+  line-height: 1.7;
+  margin: 2em 10%;
+  color: #333;
+}
+h1 {
+  text-transform: uppercase;
+  font-size: 300%;
+}
+a {
+  text-decoration: none;
+  border-bottom: 1px dotted;
+}
+a:link,
+a:visited {
+  color: #000faa;
+}
+a:hover {
+  color: #45F;
+}
