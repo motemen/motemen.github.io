@@ -1,0 +1,99 @@
+- name: git-pr-release
+  url: https://github.com/motemen/git-pr-release
+  summary: Creates a pull request which summarizes feature branches that are to be released into production
+  notes:
+    - Git
+    - Ruby
+- name: git-unify
+  url: https://github.com/motemen/git-unify
+  summary: Shares .git directories of local repositories to speed-up cloning
+  notes:
+    - Git
+    - Ruby
+- name: etch
+  url: https://github.com/motemen/etch
+  summary: 2ch dat proxy
+  notes:
+    - Go
+- name: humr
+  url: https://github.com/motemen/humr
+  summary: Makes any output human-readable
+  notes:
+    - Ruby
+- name: git-browse-remote
+  url: http://motemen.github.io/git-browse-remote/
+  summary: Open web browser to view remote Git repositories
+  notes:
+    - Git
+    - Ruby
+- name: polka
+  url: https://github.com/motemen/polka
+  summary: Local web DJ
+  notes:
+    - Node.js
+    - Socket.IO
+    - YouTube/SoundCloud
+- name: Wight
+  url: https://github.com/motemen/Wight
+  summary: Manimulates PhantomJS from Perl
+  notes:
+    - Perl
+    - Scraping/Webapp testing
+    - PhantomJS
+    - Poltergeist
+    - AnyEvent, Coro
+    - WebSocket
+- name: htmlcat
+  url: https://metacpan.org/module/htmlcat
+  summary: Renders standard input in your browser
+  notes:
+    - Perl
+    - JavaScript
+    - Server-Sent Events
+- name: Teto
+  url: https://github.com/motemen/Teto
+  summary: Web audio streaming server
+  notes:
+    - Perl
+    - Plack/PSGI streaming
+    - AnyEvent, Coro
+    - DAAP
+    - ffmpeg
+- name: PicTumblr
+  url: https://market.android.com/details?id=net.tokyoenvious.droid.pictumblr
+  summary: Android Tumblr app
+  notes:
+    - Scala
+    - Android
+- name: Kindlenap
+  url: https://github.com/motemen/Kindlenap
+  summary: Generates HTML files from a web page for <a href="http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000234621">kindlegen</a>
+  notes:
+    - Perl
+    - Supports AutoPagerize SITEINFO
+- name: modoi
+  url: https://github.com/motemen/modoi
+  summary: Futaba channel (http://www.2chan.net/) proxy
+  notes:
+    - Perl
+    - Pluggable components
+    - Hyper estraier-powered search
+    - Caches images
+    - Automatic refetching
+- name: euler-getter
+  url: http://misc.tokyoenvious.net/euler-getter/
+  summary: A web implementation of <a href="http://www.sci.kagoshima-u.ac.jp/~yasuda/Takehiko_Yasudas_homepage/Games.html">Euler Getter</a>
+  notes:
+    - Perl
+    - JavaScript/jQuery
+- name: JScriptHTTPGateway
+  url: https://gist.github.com/715431
+  summary: Invoke Windows JScript via HTTP (e.g. curl)
+  notes:
+    - C#
+- name: jusk
+  url: https://github.com/motemen/jusk
+  summary: A study implementation of JavaScript by Haskell
+  notes:
+    - Haskell
+    - Parsec

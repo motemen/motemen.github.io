@@ -1,0 +1,11 @@
+== partial 'index'
+
+ul#products
+  - data.products.each do |p|
+    li
+      a href=p.url =p.name
+      span.sep =" - "
+      =p.summary
+      ul.notes
+        - p.notes.each do |n|
+          li =n
