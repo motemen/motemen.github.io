@@ -1,3 +1,15 @@
+- name: ghq
+  url: https://github.com/motemen/ghq
+  summary: Manage remote repository clones at local (on the Go way).
+  notes:
+    - Git/Mercurial
+    - Go
+- name: Pusheen Explorer
+  url: http://motemen.github.io/pusheen-explorer/
+  summary: Search all the Pusheen pics
+  notes:
+    - AngularJS
+    - OCR
 - name: git-pr-release
   url: https://github.com/motemen/git-pr-release
   summary: Creates a pull request which summarizes feature branches that are to be released into production
