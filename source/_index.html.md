@@ -7,23 +7,29 @@ motemen
 Web engineer, working at [Hatena][] as a chief engineer at Kyoto, Japan.
 Speaks/writes mainly in Japanese, sometimes in English.
 
-**Loves**: Vim, Git, Go. **Also uses/interested in**: JavaScript, Ruby, Scala, Perl, Haskell.
-
-**Email**: <motemen@gmail.com>
-
-<a href="https://twitter.com/motemen" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @motemen</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-
-<script data-gratipay-username="motemen" src="//grtp.co/v1.js"></script>
+<div class="social">
+  <a title="GitHub" href="https://github.com/motemen"><i class="fa fa-github-alt"></i></a>
+  <a title="Twitter" a href="https://twitter.com/motemen"><i class="fa fa-twitter"></i></a>
+</div>
 
 ## Blogs
 
- * [motemen.hatenablog.com][] (ja, en)
+ * [Japanese][motemen.hatenablog.com]
+ * [English][Medium]
 
 ## Presentations
 
+### 2015
+
+ * [Gore: A Tale of Go REPL](https://speakerdeck.com/motemen/gore-a-tale-of-go-repl) (en) Go Conference 2015 Summer
+
+### 2014
+
  * [Workflow at Hatena Mackerel Team](https://speakerdeck.com/motemen/workflow-at-hatena-mackerel-team) (ja)
  * [Writing Tools with Git](https://speakerdeck.com/motemen/yapc-asia-2014-writing-tools-with-git) (ja) YAPC::Asia 2014
+
+### 2013 or earlier
+
  * [Introduction to DBIx::Lite](http://www.slideshare.net/motemen/introduction-to-dbixlite-kyotopm-tech-talk-2) Kyoto.pm tech talk #2
  * Teto - Streaming audio on Plack
    * [at YAPC::Asia 2011](https://docs.google.com/present/view?id=dmtb2db_296fqq7fbvj) (ja)
@@ -37,6 +43,7 @@ Speaks/writes mainly in Japanese, sometimes in English.
  * Twitter: [@motemen][Twitter/motemen]
  * RubyGems: [motemen][RubyGems/motemen]
  * CPAN: [MOTEMEN][CPAN/motemen]
+ * npm: [motemen][npm/motemen]
 
 ## Products
 
@@ -50,3 +57,5 @@ Check out my personal projects at [GitHub][GitHub/motemen].
 [Google+/motemen]: https://plus.google.com/116464903256504765996
 [RubyGems/motemen]: https://rubygems.org/profiles/motemen
 [CPAN/motemen]: https://metacpan.org/author/MOTEMEN
+[npm/motemen]: https://www.npmjs.com/~motemen
+[Medium]: https://medium.com/@motemen

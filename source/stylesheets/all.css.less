@@ -14,13 +14,29 @@ h1 {
 
 a {
   text-decoration: none;
-  border-bottom: 1px dotted;
+  border-bottom: 1px solid;
 
   &:link, &:visited {
-    color: darken(#45F, 30%);
+    color: #45F;
   }
 
   &:hover {
-    color: #45F;
+    color: lighten(#45F, 10%);
+  }
+}
+
+.social {
+  font-size: 250%;
+
+  a {
+    border: none;
+    margin-right: 0.3em;
+    &:link, &:visited {
+      color: #445;
+    }
+
+    &:hover {
+      color: #45F;
+    }
   }
 }
