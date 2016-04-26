@@ -1,5 +1,5 @@
 - name: gore
-  url: https://github.com/motemen/ghq
+  url: https://github.com/motemen/gore
   summary: A REPL for Go (golang) that works nicely
   notes:
     - Go
