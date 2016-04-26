@@ -19,9 +19,14 @@ Speaks/writes mainly in Japanese, sometimes in English.
 
 ## Presentations
 
+### 2016
+
+* [Reading Go Tools](https://speakerdeck.com/motemen/reading-go-tools-gocon-2016-spring) (en) Go Conference 2016 Spring
+
 ### 2015
 
  * [Gore: A Tale of Go REPL](https://speakerdeck.com/motemen/gore-a-tale-of-go-repl) (en) Go Conference 2015 Summer
+ * [Diff'ing Go library API changes](https://speakerdeck.com/motemen/diffing-go-library-api-changes) (en) Go Conference 2015 Winter
 
 ### 2014
 
